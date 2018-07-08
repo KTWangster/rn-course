@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedModule.m \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedModule.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerObserverCoordinator.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerUtils.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h

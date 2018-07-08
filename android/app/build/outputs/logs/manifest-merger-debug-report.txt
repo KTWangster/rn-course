@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/1542bd39e696756f09b2d9ffb754882f/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a6401bbf33607a96feebc2030b190cf8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.1] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/ec65d9de4008c8945b9b5fc20729e68d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/7985d169c10461fa4bf7cdec9ff26bab/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/a88593fbce986601448451845c062c73/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/ac85753c489dcb0a6d6e789a0154affc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/26940470c0aeb75820aa373ad900c2a7/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/29406643f42e59a56fd92c1af070ce86/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/33f30ed5cbe15d2f5dc33c9bc06cf931/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/e34c13f21ba1185f9ec95e731a153075/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/3c11ed7ba9d71f04d537649d88b73a6b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/222467cd2109f39ead6f8f7e40f85b2b/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:2:5-27
+		INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/1542bd39e696756f09b2d9ffb754882f/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/1542bd39e696756f09b2d9ffb754882f/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/1542bd39e696756f09b2d9ffb754882f/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/1542bd39e696756f09b2d9ffb754882f/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a6401bbf33607a96feebc2030b190cf8/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a6401bbf33607a96feebc2030b190cf8/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/ec65d9de4008c8945b9b5fc20729e68d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/ec65d9de4008c8945b9b5fc20729e68d/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/26940470c0aeb75820aa373ad900c2a7/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/26940470c0aeb75820aa373ad900c2a7/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/29406643f42e59a56fd92c1af070ce86/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/29406643f42e59a56fd92c1af070ce86/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.rncourse.MainActivity
+ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/1542bd39e696756f09b2d9ffb754882f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/1542bd39e696756f09b2d9ffb754882f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a6401bbf33607a96feebc2030b190cf8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/a6401bbf33607a96feebc2030b190cf8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/ec65d9de4008c8945b9b5fc20729e68d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/ec65d9de4008c8945b9b5fc20729e68d/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/7985d169c10461fa4bf7cdec9ff26bab/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/7985d169c10461fa4bf7cdec9ff26bab/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/a88593fbce986601448451845c062c73/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/a88593fbce986601448451845c062c73/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/ac85753c489dcb0a6d6e789a0154affc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/ac85753c489dcb0a6d6e789a0154affc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/26940470c0aeb75820aa373ad900c2a7/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/26940470c0aeb75820aa373ad900c2a7/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/33f30ed5cbe15d2f5dc33c9bc06cf931/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/33f30ed5cbe15d2f5dc33c9bc06cf931/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/e34c13f21ba1185f9ec95e731a153075/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/e34c13f21ba1185f9ec95e731a153075/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/3c11ed7ba9d71f04d537649d88b73a6b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/3c11ed7ba9d71f04d537649d88b73a6b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/222467cd2109f39ead6f8f7e40f85b2b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/KatherineWang/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/222467cd2109f39ead6f8f7e40f85b2b/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/KatherineWang/Documents/Udemy_ReactNative/RN_PracticalGuide/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
